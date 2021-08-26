@@ -3,5 +3,5 @@ Card component developped with vanilla Js, html and css.
 
 ## Screenshots
 
-![closed](./ss/open.png)
+![closed](./ss/closed.png)
 ![opened](./ss/open.png)

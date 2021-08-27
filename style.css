@@ -100,17 +100,11 @@ body {
 
 .left {
   background-color: #8fbbbd;
+  transform: rotate(-45deg) translateX(2px);
 }
 
 .right {
   background-color: #436f70;
-}
-
-.down .left {
-  transform: rotate(-45deg) translateX(2px);
-}
-
-.down .right {
   transform: rotate(45deg) translateX(-2px);
 }
 
@@ -120,10 +114,4 @@ body {
   position: absolute;
   bottom: 0;
   left: 0;
-}
-
-.test {
-  width: 50vw;
-  height: 80vh;
-  background-color: #436f70;
 }
